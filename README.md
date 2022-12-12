@@ -1,24 +1,23 @@
-<h1 align="left"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I'm Abir Hasan</h1>
+<h1 align="left"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I'm Vishu Pented</h1>
 
 ## You Know Me?
 
-<p align="left"> <a href="https://github.com/AbirHasan2005"><img src="https://komarev.com/ghpvc/?username=AbirHasan2005&label=Profile%20views&color=0e75b6&style=flat" alt="AbirHasan2005" /></a> </p>
+<p align="left"> <a href="https://github.com/VishuPented/VishuPented"><img src="https://komarev.com/ghpvc/?username=VishuPented&label=Profile%20views&color=0e75b6&style=flat" alt="vishupented" /></a> </p>
 
 <details>
   <summary>GitHub Stats</summary>
   <br/>
-<p align="left"> <a href="https://github.com/AbirHasan2005"><img src="https://github-profile-trophy.vercel.app/?username=AbirHasan2005" alt="AbirHasan2005" /></a> </p>
+<p align="left"> <a href="https://github.com/VishuPented/VishuPented"><img src="https://github-profile-trophy.vercel.app/?username=vishupented" alt="vishupented" /></a> </p>
 
 </details>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AbirHasan2005&show_icons=true&locale=en" alt="AbirHasan2005" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishupented&show_icons=true&locale=en" alt="vishupented" /></p>
 
 <details>
     <summary>Top Languages</summary>
     <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbirHasan2005)](https://github.com/AbirHasan2005)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishupented)](https://github.com/vishupented)
 </details>
 
 <details>
@@ -57,7 +56,7 @@
 </details>
 
 ### API by Me:
-<p align="left"> <a href="https://api.abirhasan.wtf" target="_blank"> <img src="https://img.icons8.com/nolan/100/api.png" alt="Search API" width="80" height="80"/> </a> </p>
+<p align="left"> <a href="https://github.com/VishuPented/VishuPented" target="_blank"> <img src="https://img.icons8.com/nolan/100/api.png" alt="Search API" width="80" height="80"/> </a> </p>
 
 ### :zap: Recent Activities:
 
@@ -100,16 +99,16 @@
 </details>
 
 ### Follow on:
-[![Abir Hasan](https://img.icons8.com/fluent/48/000000/twitter.png)][twitter]
-[![Abir Hasan](https://img.icons8.com/fluent/48/000000/instagram-new.png)][instagram]
-[![Abir Hasan](https://img.icons8.com/fluent/48/000000/telegram-app.png)][telegram]
-[![Nahid Hasan Abir](https://img.icons8.com/fluent/48/000000/facebook-new.png)][facebook]
+[![VishuPented](https://img.icons8.com/fluent/48/000000/twitter.png)][twitter]
+[![VishuPented](https://img.icons8.com/fluent/48/000000/instagram-new.png)][instagram]
+[![VishuPented](https://img.icons8.com/fluent/48/000000/telegram-app.png)][telegram]
+[![VishuPented](https://img.icons8.com/fluent/48/000000/facebook-new.png)][facebook]
 
 ### Support Group:
-<a href="https://t.me/JoinOT"><img src="https://img.shields.io/badge/Devs%20Zone-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/PS_MOVIES11"><img src="https://img.shields.io/badge/Devs%20Zone-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
 
 ### Telegram Bots Channel:
-<a href="https://t.me/linux_repo"><img src="https://img.shields.io/badge/Discovery%20Updates-Join%20Telegram%20Channel-blue.svg?logo=telegram"></a>
+<a href="https://t.me/PS_MOVIES11"><img src="https://img.shields.io/badge/Discovery%20Updates-Join%20Telegram%20Channel-blue.svg?logo=telegram"></a>
 
 [twitter]: https://twitter.com/AbirHasan2005
 [instagram]: https://instagram.com/AbirHasan2005
