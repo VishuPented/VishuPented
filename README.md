@@ -58,43 +58,19 @@
 ### API by Me:
 <p align="left"> <a href="https://github.com/VishuPented/VishuPented" target="_blank"> <img src="https://img.icons8.com/nolan/100/api.png" alt="Search API" width="80" height="80"/> </a> </p>
 
-### :zap: Recent Activities:
-
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/AbirHasan2005/Image-Exif/issues/2) in [AbirHasan2005/Image-Exif](https://github.com/AbirHasan2005/Image-Exif)
-2. ❗️ Closed issue [#28](https://github.com/AbirHasan2005/Forward-Client/issues/28) in [AbirHasan2005/Forward-Client](https://github.com/AbirHasan2005/Forward-Client)
-3. 🗣 Commented on [#28](https://github.com/AbirHasan2005/Forward-Client/issues/28) in [AbirHasan2005/Forward-Client](https://github.com/AbirHasan2005/Forward-Client)
-4. 🎉 Merged PR [#32](https://github.com/AbirHasan2005/TelegramScraper/pull/32) in [AbirHasan2005/TelegramScraper](https://github.com/AbirHasan2005/TelegramScraper)
-5. ❗️ Closed issue [#19](https://github.com/AbirHasan2005/TelegramScraper/issues/19) in [AbirHasan2005/TelegramScraper](https://github.com/AbirHasan2005/TelegramScraper)
-<!--END_SECTION:activity-->
-
-
-### 📺 Latest YouTube Videos
-<!-- Feed workflow - https://github.com/gautamkrishnar/blog-post-workflow -->
-<!-- YouTube Cards - WIP by DenverCoder1 -->
-
-<!-- YOUTUBE:START -->
-- [Make own Telegram Streaming Link Gen Bot | Host on Heroku | Discovery Projects](https://www.youtube.com/watch?v=naBRa4a2mnE)
-- [Telegram PDisk Bot Features Tutorial | Discovery Projects](https://www.youtube.com/watch?v=MYMmdQ9rIh4)
-- [Make Own Telegram Files Rename Bot | Host on Heroku | Discovery Projects](https://www.youtube.com/watch?v=edcOa_cZWg4)
-- [Make Own Telegram Video Merge Bot | Discovery Projects](https://www.youtube.com/watch?v=m4r_SHySGYo)
-- [Make Telegram Messages Forwarder Userbot | Discovery Projects](https://www.youtube.com/watch?v=_xuptk2KUbk)
-<!-- YOUTUBE:END -->
-- [More Videos](https://m.youtube.com/channel/UCmnA0xMXzSyU9qbCQAG7bJQ/videos) 
-
 ### Contribution Graph:
 
 <p align="center">
-  <a href="https://github.com/AbirHasan2005">
+  <a href="https://github.com/VishuPented">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbirHasan2005#version3"/>
   </a>
 </p>
-<a href="https://github.com/AbirHasan2005"><img alt="Abir's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AbirHasan2005&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/VishuPented/VishuPented"><img alt="Abir's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AbirHasan2005&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 <details>
   <summary>Activity Metrics</summary>
   <br/>
-<p align="left"> <a href="https://github.com/AbirHasan2005"><img src="https://metrics.lecoq.io/AbirHasan2005?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta" alt="AbirHasan2005" /></a> </p>
+<p align="left"> <a href="https://github.com/VishuPented/VishuPented"><img src="https://metrics.lecoq.io/AbirHasan2005?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta" alt="AbirHasan2005" /></a> </p>
 
 </details>
 
