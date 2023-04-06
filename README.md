@@ -78,7 +78,6 @@
 [![VishuPented](https://img.icons8.com/fluent/48/000000/twitter.png)][twitter]
 [![VishuPented](https://img.icons8.com/fluent/48/000000/instagram-new.png)][instagram]
 [![VishuPented](https://img.icons8.com/fluent/48/000000/telegram-app.png)][telegram]
-[![VishuPented](https://img.icons8.com/fluent/48/000000/facebook-new.png)][facebook]
 
 ### Support Group:
 <a href="https://t.me/PS_MOVIES11"><img src="https://img.shields.io/badge/Devs%20Zone-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
@@ -86,7 +85,6 @@
 ### Telegram Bots Channel:
 <a href="https://t.me/PS_MOVIES11"><img src="https://img.shields.io/badge/Discovery%20Updates-Join%20Telegram%20Channel-blue.svg?logo=telegram"></a>
 
-[twitter]: https://twitter.com/AbirHasan2005
-[instagram]: https://instagram.com/AbirHasan2005
-[telegram]: https://t.me/AbirHasan2005
-[facebook]: https://facebook.com/AbirHasan2005
+[twitter]: https://twitter.com/vishupented04
+[instagram]: https://instagram.com/vishupented.04
+[telegram]: https://t.me/IamStranger4u
