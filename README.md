@@ -30,7 +30,7 @@
 ### Follow on:
 [![VishuPented](https://img.icons8.com/fluent/48/000000/twitter.png)][twitter]
 [![VishuPented](https://img.icons8.com/fluent/48/000000/instagram-new.png)][instagram]
-[![VishuPented]([https://img.icons8.com/fluent/48/000000/instagram-new.png](https://o.remove.bg/downloads/804f215a-48e9-475e-8343-1bd5ae4eb1a1/1006-10065363_facebook-twitter-google-plus-linkedin-whatsapp-linked-in-removebg-preview.png))][instagram]
+[![VishuPented]([https://img.icons8.com/fluent/48/000000/linkedin-new.png)][instagram]
 
 
 
