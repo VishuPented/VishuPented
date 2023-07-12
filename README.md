@@ -30,10 +30,12 @@
 ### Follow on:
 [![VishuPented](https://img.icons8.com/fluent/48/000000/twitter.png)][twitter]
 [![VishuPented](https://img.icons8.com/fluent/48/000000/instagram-new.png)][instagram]
+[![VishuPented](https://icon-library.com/images/linkedin-icon-for-resume/linkedin-icon-for-resume-18.jpg)[linkedin]
 
 
 
 
 [twitter]: https://twitter.com/vishupented04
 [instagram]: https://instagram.com/vishupented.04
+[linkedin]: https://www.linkedin.com/in/vishwanath-pented-044b6b252/
 
