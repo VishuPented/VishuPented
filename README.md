@@ -27,13 +27,6 @@
 
 </details>
 
-<details>
-    <summary>Tools</summary>
-    <br/>
-<p align="left"> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/pycharm/pycharm-original-wordmark.svg" alt="pycharm" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> </p>
-
-</details>
-
 ### Follow on:
 [![VishuPented](https://img.icons8.com/fluent/48/000000/twitter.png)][twitter]
 [![VishuPented](https://img.icons8.com/fluent/48/000000/instagram-new.png)][instagram]
