@@ -55,9 +55,6 @@
 
 </details>
 
-### API by Me:
-<p align="left"> <a href="https://github.com/VishuPented/VishuPented" target="_blank"> <img src="https://img.icons8.com/nolan/100/api.png" alt="Search API" width="80" height="80"/> </a> </p>
-
 ### Contribution Graph:
 
 <p align="center">
@@ -70,14 +67,10 @@
 ### Follow on:
 [![VishuPented](https://img.icons8.com/fluent/48/000000/twitter.png)][twitter]
 [![VishuPented](https://img.icons8.com/fluent/48/000000/instagram-new.png)][instagram]
-[![VishuPented](https://img.icons8.com/fluent/48/000000/telegram-app.png)][telegram]
 
-### Support Group:
-<a href="https://t.me/PS_MOVIES11"><img src="https://img.shields.io/badge/Devs%20Zone-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
 
-### Telegram Bots Channel:
-<a href="https://t.me/PS_MOVIES11"><img src="https://img.shields.io/badge/Discovery%20Updates-Join%20Telegram%20Channel-blue.svg?logo=telegram"></a>
+
 
 [twitter]: https://twitter.com/vishupented04
 [instagram]: https://instagram.com/vishupented.04
-[telegram]: https://t.me/IamStranger4u
+
